@@ -1,13 +1,7 @@
-<svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_774_6757)">
-<path d="M4.63663 7.40885C6.06996 6.16385 7.93329 6.16385 9.36663 7.40885M3.66663 6.10385C5.68663 4.34885 8.31329 4.34885 10.3333 6.10385M5.26329 8.7776C6.31329 7.8626 7.68329 7.8626 8.73329 8.7776" stroke="#28C225" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
-<ellipse cx="6.99995" cy="10.4688" rx="0.8" ry="0.9" fill="#28C225"/>
-</g>
-<circle cx="7" cy="7.96875" r="6.5" stroke="#EB3C3C"/>
-<line x1="1.73156" y1="11.5469" x2="12.7316" y2="4.54692" stroke="#EB3C3C"/>
-<defs>
-<clipPath id="clip0_774_6757">
-<rect width="8" height="9" fill="white" transform="translate(3 2.96875)"/>
-</clipPath>
-</defs>
+<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="13" height="13" rx="2" fill="#C7C7C7"/>
+<circle cx="6.5" cy="6.5" r="4.15" fill="white" stroke="#EB3C3C" stroke-width="0.7"/>
+<path d="M4.73505 5.99903C5.8212 5.05559 7.23321 5.05559 8.31936 5.99903M4 5.01013C5.53072 3.68022 7.52116 3.68022 9.05188 5.01013M5.20993 7.03625C6.0056 6.34288 7.04376 6.34288 7.83943 7.03625" stroke="#28C225" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="6.52615" cy="8.31799" rx="0.606226" ry="0.682004" fill="#28C225"/>
+<line x1="2.85129" y1="7.96881" x2="9.85128" y2="4.68317" stroke="#EB3C3C" stroke-width="0.7"/>
 </svg>
