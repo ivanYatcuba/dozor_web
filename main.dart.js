@@ -57098,11 +57098,11 @@ A.nt(this.b,!0).ef(0)},
 $S:0}
 A.ars.prototype={
 $1(a){var s=a.a
-return new A.y2(new A.eI(s.a,s.b),new A.arr(this.a,a),a.e*0.2,a.f*0.2)},
+return new A.y2(new A.eI(s.a,s.b),new A.arr(this.a,a),a.e*0.45,a.f*0.45)},
 $S:256}
 A.arr.prototype={
 $1(a){var s=null
-return A.avp(B.R,s,s,s,s,B.cB,s,s,this.b.d,!1,!0,!1,s,B.bS,0.2,s)},
+return A.avp(B.R,s,s,s,s,B.cB,s,s,this.b.d,!1,!0,!1,s,B.bS,0.45,s)},
 $S:257}
 A.arv.prototype={
 $0(){var s=this.a,r=this.b
@@ -57192,7 +57192,7 @@ r=A.cT(p,B.a2G,B.p,B.k,p,p,p,p,p,p,p,p,p,p)
 q=b.b
 if(q==null)q=new A.pA(new A.VD(0),new A.p4(50.438815,30.545765,7))
 A.fk("!!@@@ "+B.d.j(A.c1(a,p,t.l).w.b))
-return A.w2(new A.Hb(A.a([r,new A.Fl(q,250,p)],t.p),s,16,B.ok,p),new A.asv(),t.xT)},
+return A.w2(new A.Hb(A.a([r,new A.Fl(q,96,p)],t.p),s,16,B.ok,p),new A.asv(),t.xT)},
 $S:260}
 A.asv.prototype={
 $1(a){return A.bbo(A.hG(a,t.rT))},
