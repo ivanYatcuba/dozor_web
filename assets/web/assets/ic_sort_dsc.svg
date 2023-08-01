@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="200.773 214.111 19.06 14.976" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path d="M 202.21 226.215 L 210.558 226.215" stroke="#5A5A5A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 202.209 220.997 L 208.47 220.997" stroke="#5A5A5A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 202.21 215.78 L 206.384 215.78" stroke="#5A5A5A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 215.774 228.38 L 218.905 225.249 M 215.774 228.38 L 212.644 225.249 M 215.774 228.38 L 215.774 224.467 L 215.774 215.858" stroke="#5A5A5A" stroke-width="2" transform="matrix(-1, 0, 0, -1, 431.549011, 444.238007)"/>
+  <path d="M -215.787 215.018 L -213.917 216.982 L -217.656 216.982 L -215.787 215.018 Z" style="stroke: rgb(90, 90, 90); fill: rgb(90, 90, 90);" transform="matrix(-1, 0, 0, 1, 0, 0)" bx:shape="triangle -217.656 215.018 3.739 1.964 0.5 0 1@59aa2f76"/>
+</svg>
